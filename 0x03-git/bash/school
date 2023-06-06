@@ -1,1 +1,3 @@
-echo "The School is now open !"
+<<<<<<<
+echo "The School is soon open!"
+>>>>>>> update_script
